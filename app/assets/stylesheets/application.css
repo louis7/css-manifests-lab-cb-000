@@ -16,3 +16,4 @@
  *= require pages
  *= require posts
  *= require_self
+ *= require hidden_styles
