@@ -10,7 +10,8 @@
  * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
  * file per style scope.
  *
- *= require posts
+ *= require bootstrap-addon
+ *= require jquery-addon
  *= require pages
  *= require blogs
  *= require_self
